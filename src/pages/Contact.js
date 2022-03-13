@@ -24,11 +24,11 @@ const Contact = () => {
       </div>
 
       <center>
-        <p id="emailPhone"><a href="tel:+918269795767">📞+91 8269795767</a>  <a href="mailto:shivam.2101s@gmail.com" target="_blank" id="email"> 📧 shivam2101s.gmail.com</a></p>
+        <p id="emailPhone"><a href="tel:+918109560498">📞+91 8109560498</a>  <a href="mailto:ashishsharma150815@gmail.com" target="_blank" id="email"> 📧 ashishsharma150815@gmail.com</a></p>
         <hr className="style-f" />
       </center>
       <p className="copyright">
-        👨‍💻 with ❤️ by <b id="footName">Shivam Sharma</b> using ⚛️ 
+        👨‍💻 with ❤️ by <b id="footName">Ashish Sharma</b> using ⚛️ 
        </p>
       
 
