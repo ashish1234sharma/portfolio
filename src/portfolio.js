@@ -147,7 +147,7 @@ search bar for food items to see their nutrition contents, explore various fitne
 Subscription page.`,
     tech: `Tech Stack: HTML | CSS | JavaScript `,
     img: "https://github.com/ashish1234sharma/pictures/blob/main/snapdeal/home.png?raw=true",
-    link: "https://github.com/AbhijitAher/MyFitnessPal_U5",
+    link: "https://snapdeal-clone.vercel.app/",
     github: "https://github.com/ashish1234sharma/Snapdeal-Clone",
   },
   
