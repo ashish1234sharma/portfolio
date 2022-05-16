@@ -169,7 +169,7 @@ Recipe of the day.`,
     feature: `Login,sorting,filter,flat information`,
     tech: `Tech Stack: HTML | CSS | React `,
     img: "https://github.com/ashish1234sharma/pictures/blob/main/Screenshot%20(6).png?raw=true",
-    link: "https://myfoodapp21.netlify.app/",
+    link: "https://society-manager.vercel.app/#",
     github: "https://github.com/ashish1234sharma/Society-manager",
   },
 ];
