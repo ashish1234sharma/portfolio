@@ -162,6 +162,16 @@ Recipe of the day.`,
     link: "https://myfoodapp21.netlify.app/",
     github: "https://github.com/ashish1234sharma/Food-app",
   },
+  {
+    id: 8,
+    title: "Flat manager",
+    desc: `This application we can use for manage data of flats and we can easily get information of flat members`,
+    feature: `Login,sorting,filter,flat information`,
+    tech: `Tech Stack: HTML | CSS | React `,
+    img: "https://github.com/ashish1234sharma/pictures/blob/main/Screenshot%20(6).png?raw=true",
+    link: "society-manager.vercel.app",
+    github: "https://github.com/ashish1234sharma/Society-manager",
+  },
 ];
 
 // Social Media Links
