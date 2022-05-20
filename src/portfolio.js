@@ -127,16 +127,16 @@ export const whatido = {
 export const details = [
   {
     id: 1,
-    title: "Pai international Clone",
-    desc: `Pai international is a E-Commerce website where customers can explore new things and shopping.`,
+    title: "Masai E-commerce",
+    desc: `It is a E-Commerce website where customers can explore new things and shopping.`,
     feature: `Sign-in/Sign-up validation with backend,
-    corousel image,
-Dynamic product page,
-payment gateway,Dynamic cart page with coupon functionality.`,
-    tech: `Tech Stack: EJS | CSS | JavaScript | nodeJS | express | MongoDB`,
-    img: "https://github.com/ashish1234sharma/pictures/blob/main/pai.png?raw=true",
-    github: "https://github.com/ashish1234sharma/paiinternational-clone-1",
-    link: "https://pai-internationalclone.herokuapp.com/"
+    carousel image,
+     Dynamic product page,
+     payment gateway,Dynamic cart page .`,
+    tech: `Tech Stack: EJS | CSS | React | nodeJS | express | MongoDB | Redux | Material UI | Thunk`,
+    img: "https://github.com/ashish1234sharma/pictures/blob/main/masai%20E-commerce.png?raw=true",
+    github: "https://github.com/masai-course/ashish_fw14_412/tree/master/Ecommerce%20Project",
+    link: "https://masai-ecommerce-ashish1234sharma.vercel.app/"
   },
   {
     id: 2,
